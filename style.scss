@@ -1,0 +1,26 @@
+body {
+    background: rgba(161, 154, 154, 0.575);
+    margin-top: 20px;
+
+    .wrapper {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+
+        .news {
+            background: rgba(206, 225, 231, 0.287);
+            padding: 20px 40px 0 40px;
+            margin-bottom: 50px;
+
+            .news-tags {
+                margin-bottom: 10px;
+            }
+        }
+
+        .footer {
+            background: rgb(11, 121, 165);
+            color: white;
+            padding: 30px;
+        }
+    } 
+}

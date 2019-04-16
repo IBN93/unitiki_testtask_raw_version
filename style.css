@@ -1,0 +1,27 @@
+body {
+  background: rgba(161, 154, 154, 0.575);
+  margin-top: 20px;
+}
+
+body .wrapper {
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+body .wrapper .news {
+  background: rgba(206, 225, 231, 0.287);
+  padding: 20px 40px 0 40px;
+  margin-bottom: 50px;
+}
+
+body .wrapper .news .news-tags {
+  margin-bottom: 10px;
+}
+
+body .wrapper .footer {
+  background: #0b79a5;
+  color: white;
+  padding: 30px;
+}
+/*# sourceMappingURL=style.css.map */
